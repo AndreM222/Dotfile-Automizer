@@ -1,7 +1,8 @@
 # Dotfile Automizer
 
 > [!WARNING]
-> The following is the link to the autosetup script: DO NOT RUN WITHOUT READING WHAT THE SCRIPT DOES
+> The following is the link to the autosetup script: DO NOT RUN WITHOUT READING WHAT THE SCRIPT DOES.
+> for now is only for Windows. After completion I will make it work for MacOS.
 > ```
 > Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 > Invoke-RestMethod https://raw.githubusercontent.com/AndreM222/Dotfile-Automizer/master/autoSetup.ps1 | Invoke-Expression
@@ -15,9 +16,17 @@
 
 [Back To Windows-Dotfiles <-](https://github.com/AndreM222/Windows-Dotfiles) (For Detailed Setup)
 
+[Back To MacOS-Dotfiles <-](https://github.com/AndreM222/MacOS-Dotfiles) (For Detailed Setup)
+
 - [Navigate To Powershell Dotfiles <-](https://github.com/AndreM222/PowerShell) (For Detailed Setup)
 
 - [Navigate To Neovim Dotfiles <-](https://github.com/AndreM222/nvim) (For Detailed Setup)
+
+- [Navigate To Ghostty Dotfiles <-](https://github.com/AndreM222/ghostty) (For Detailed Setup)
+
+- [Navigate To Fish-Shell Dotfiles <-](https://github.com/AndreM222/fish) (For Detailed Setup)
+
+- [Navigate To TMux Dotfiles <-](https://github.com/AndreM222/tmux) (For Detailed Setup)
 
 ## Dependencies 📃
 
